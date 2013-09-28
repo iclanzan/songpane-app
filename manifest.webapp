@@ -9,7 +9,10 @@
   },
   "icons": {
     "120": "images/icon-120.png",
-    "60": "images/icon-60.png"
+    "60": "images/icon-60.png",
+    "30": "images/icon-30.png",
+    "128": "images/icon-128.png",
+    "256": "images/icon-256.png"
   },
   "installs_allowed_from": ["*"],
   "appcache_path": "/manifest.appcache",
