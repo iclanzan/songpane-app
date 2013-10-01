@@ -16,5 +16,5 @@
   },
   "installs_allowed_from": ["*"],
   "appcache_path": "/manifest.appcache",
-"orientation": "portrait-primary"
+"fullscreen": "true"
 }
