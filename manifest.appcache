@@ -1,12 +1,11 @@
 CACHE MANIFEST
-# version 0.2.1
+# version 0.2.2
 
 CACHE:
 //songpane.com/favicon.ico
 
-0.2.1/angular.min.js
-0.2.1/app.js
-0.2.1/style.css
+0.2.2/app.js
+0.2.2/style.css
 
 
 NETWORK:
