@@ -4,6 +4,7 @@ CACHE MANIFEST
 CACHE:
 //songpane.com/favicon.ico
 
+0.2.2/angular.min.js
 0.2.2/app.js
 0.2.2/style.css
 
