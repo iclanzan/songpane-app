@@ -1,7 +1,7 @@
 {
   "name": "SongPane",
   "description": "Manage set lists for worship services, concerts, gigs or practice sessions.",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "launch_path": "/",
   "developer": {
     "name": "Sorin Iclanzan",
